@@ -1,0 +1,6 @@
+C:\Users\yossi\source\repos\B23 Ex05 Yosef 307903070 Tal 209399849\ProjectXmixDrix\obj\Debug\ProjectXmixDrix.csprojAssemblyReference.cache
+C:\Users\yossi\source\repos\B23 Ex05 Yosef 307903070 Tal 209399849\ProjectXmixDrix\obj\Debug\ProjectXmixDrix.csproj.CoreCompileInputs.cache
+C:\Users\yossi\source\repos\B23 Ex05 Yosef 307903070 Tal 209399849\ProjectXmixDrix\bin\Debug\ProjectXmixDrix.exe
+C:\Users\yossi\source\repos\B23 Ex05 Yosef 307903070 Tal 209399849\ProjectXmixDrix\bin\Debug\ProjectXmixDrix.pdb
+C:\Users\yossi\source\repos\B23 Ex05 Yosef 307903070 Tal 209399849\ProjectXmixDrix\obj\Debug\ProjectXmixDrix.exe
+C:\Users\yossi\source\repos\B23 Ex05 Yosef 307903070 Tal 209399849\ProjectXmixDrix\obj\Debug\ProjectXmixDrix.pdb
